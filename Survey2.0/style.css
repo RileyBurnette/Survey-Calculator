@@ -1,0 +1,36 @@
+.body {
+    width: 15%;
+    display: block;
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+}
+
+.button {
+    font-size: 15px;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 30%;
+    margin-top: 5%;
+}
+
+
+.header {
+    margin-left: 30%;
+    margin-bottom: 0%
+    
+}
+
+.answers {
+    position: absolute;
+    margin-left: 29%;
+    margin-top: 5%;
+}
+
+h1::before {
+    border-bottom: 1px, colo;
+}
